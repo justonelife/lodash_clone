@@ -1,0 +1,22 @@
+{
+  "name": "lodash_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsc ./isEqual/isEqual.ts && node ./isEqual/isEqual.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justonelife/lodash_clone.git"
+  },
+  "author": "hys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justonelife/lodash_clone/issues"
+  },
+  "homepage": "https://github.com/justonelife/lodash_clone#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
